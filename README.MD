@@ -29,7 +29,7 @@ Typography: Rounded and friendly fonts for a welcoming look.
 UX Approach: Mobile-first, intuitive navigation, with a smooth shopping flow.
 
 🔗 View the Mockup
-👉 Click here to open the Penpot mockup
+👉 Click here to open the Penpot mockup : https://design.penpot.app/#/workspace?team-id=921945d0-8932-8162-8006-1e1d02f45ad2&project-id=921945d0-8932-8162-8006-1e2119697cee&file-id=1215c59d-a936-817d-8006-1e1c3d23e912&page-id=7dfdb671-df38-8060-8006-1e516f8e9473
 
 🚧 Next Steps
 User testing on key user flows (photo view > cart > checkout).
